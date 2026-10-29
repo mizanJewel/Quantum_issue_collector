@@ -1,0 +1,13 @@
+
+# Ignore everything by default
+*
+
+# Allow Git to track this .gitignore file
+!.gitignore
+
+# Allow only README and Python files in the root directory
+!README.md
+!*.py
+
+# Ignore all directories and their contents
+*/
